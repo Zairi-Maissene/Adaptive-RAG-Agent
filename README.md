@@ -28,8 +28,8 @@ Ensure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Zairi-Maissene/adaptive-rag-agent.git
-cd adaptive-rag-agent
+git clone https://github.com/Zairi-Maissene/Adaptive-Rag-Agent.git
+cd Adaptive-Rag-Agent
 ```
 
 That's it! Run the notebook and test the agent :smiley: .
